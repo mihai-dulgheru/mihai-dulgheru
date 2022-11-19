@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Mihai's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihai-dulgheru&show_icons=true&theme=dark)](https://github.com/mihai-dulgheru/github-readme-stats)
+[![Mihai's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihai-dulgheru&show_icons=true&theme=radical)](https://github.com/mihai-dulgheru/github-readme-stats)
 
 <!--
 **mihai-dulgheru/mihai-dulgheru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
